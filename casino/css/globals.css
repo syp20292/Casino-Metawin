@@ -1,0 +1,222 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,700,300,500,600|Jost:300,700,500,500italic");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/63f116340bcc4b6782f0a810.63f11635662b639d55e82ea0.XcPYAjZ.hcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.top-10-casino-hotels-wordlwide-1 {
+  height: 148px;
+  min-width: 148px;
+  position: relative;
+}
+
+.lorem-ipsom-dolor-sit-amet {
+  height: 27px;
+  letter-spacing: 0;
+  line-height: 19.4px;
+  position: relative;
+  width: 274px;
+}
+
+.frame-3 {
+  background-color: var(--razzmatazz);
+  border-radius: 100px;
+  height: 52px;
+  min-width: 200px;
+  overflow: hidden;
+  position: relative;
+}
+
+.explore-today {
+  height: 52px;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 19.4px;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  width: 120px;
+}
+
+.vector {
+  height: 30px;
+  left: 161px;
+  position: absolute;
+  top: 11px;
+  width: 30px;
+}
+
+.about-us {
+  height: 14px;
+  letter-spacing: 0;
+  line-height: 19.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 108px;
+}
+
+.span {
+  color: var(--fuscous-gray);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+}
+
+.read-more {
+  color: var(--black);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  height: 52px;
+  left: 23px;
+  line-height: 19.4px;
+  position: absolute;
+  top: -1px;
+  width: 120px;
+}
+
+.top-rated-hotel {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  height: 31px;
+  letter-spacing: 0;
+  line-height: 16.9px;
+  margin-top: -1px;
+  text-align: center;
+  width: 217px;
+}
+
+.ellipse-1 {
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 75px;
+}
+
+.star {
+  height: 14px;
+  width: 15px;
+}
+
+.label {
+  letter-spacing: 0.04px;
+  line-height: 27px;
+  margin-bottom: -5.50px;
+  margin-left: -6.00px;
+  margin-top: -5.50px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.vector-1 {
+  height: 22px;
+  margin-bottom: -3.00px;
+  margin-right: -6.00px;
+  margin-top: -3.00px;
+  min-width: 22px;
+  position: relative;
+}
+
+.frame-11171 {
+  align-items: center;
+  display: flex;
+  gap: 4px;
+  position: relative;
+  width: fit-content;
+}
+
+.uilcalender {
+  height: 17px;
+  min-width: 17px;
+  position: relative;
+}
+
+.date {
+  color: var(--black);
+  font-family: var(--font-family-jost);
+  font-size: 12px;
+  font-style: italic;
+  font-weight: 500;
+  height: 15px;
+  letter-spacing: 0;
+  line-height: 15.2px;
+  position: relative;
+  white-space: nowrap;
+  width: 52px;
+}
+
+.lorem-ipsom {
+  height: 14px;
+  letter-spacing: 0;
+  line-height: 19.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 108px;
+}
+
+.frame-11279 {
+  background-color: var(--razzmatazz);
+  border-radius: 100px;
+  height: 34px;
+  min-width: 69px;
+  overflow: hidden;
+  position: relative;
+}
+
+.image-3 {
+  height: 19.48px;
+  min-width: 150px;
+  object-fit: cover;
+  position: relative;
+}
+
+.x18-icon {
+  height: 32px;
+  min-width: 32px;
+  position: relative;
+}
+
+.discover-the-best-ca-3 {
+  letter-spacing: 0;
+  position: relative;
+}
+
+.read {
+  letter-spacing: 0;
+  text-align: center;
+}
